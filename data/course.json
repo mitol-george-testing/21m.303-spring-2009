@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Performance"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "47a1f77b-f2fa-32d3-afc0-948e67b84e82"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Writing in Tonal Forms I",
+  "course_description": "Written and analytic exercises based on 18th- and 19th-century small forms and harmonic practice found in music such as the chorale preludes of Bach; minuets and trios of Haydn, Mozart, and Beethoven; and the songs and character pieces of Schubert and Schumann. Musicianship laboratory is required.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.303",
+  "learning_resource_types": [
+    "Demonstration Audio",
+    "Workshop Videos",
+    "Music",
+    "Activity Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
